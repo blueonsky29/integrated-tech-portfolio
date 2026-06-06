@@ -14,7 +14,7 @@ Sebelum menulis satu baris kode pun, seorang profesional yang baik **merencanaka
 3. **Roadmap & Timeline** — rencana per fase (yang nantinya jadi DAY 2, DAY 3, dst).
 4. **Risk Register** — daftar risiko dan cara mengatasinya.
 
-> 💡 **Kenapa ini penting?** Recruiter sangat menghargai kandidat teknis yang juga bisa berpikir terstruktur. Dokumen ini membuktikan kamu tidak asal ngoding — kamu paham *mengapa* sesuatu dibangun.
+
 
 ---
 
