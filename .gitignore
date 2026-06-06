@@ -1,0 +1,24 @@
+# Kredensial & secret — JANGAN PERNAH di-push
+.env
+*.key
+*.pem
+secrets/
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data besar (opsional — sesuaikan nanti)
+*.csv.large
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
