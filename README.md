@@ -40,14 +40,14 @@ Perencanaan → Data → AI → Cloud → Keamanan → Web/Network → ...
 
 ## 👤 Tentang Saya
 
-*Halo! 👋 Saya **Lury**, sedang menempuh pendidikan Magister Teknik Informatika.
+Halo! 👋 
+Perkenalkan, nama saya **Lury**. Saat ini saya sedang menempuh pendidikan Magister Teknik Informatika.
 
 Portofolio ini adalah catatan perjalanan belajar saya — tempat saya mengeksplorasi berbagai bidang teknologi dan menghubungkannya menjadi sesuatu yang utuh. Saya senang belajar hal baru, dan lebih senang lagi membagikannya. Setiap project di sini adalah satu langkah kecil yang saya nikmati prosesnya. 😊
 
 Kalau kamu tertarik ngobrol, kolaborasi, atau sekadar menyapa — jangan ragu, ya!
 
-📫 **Mari terhubung:** *www.linkedin.com/in/lury-wimba-lukmanawati-59a2392a7**
-
+📫 **Mari terhubung:** *www.linkedin.com/in/lury-wimba-lukmanawati-59a2392a7*
 ---
 
 *Dibangun sebagai bagian dari program pelatihan intensif. Diperbarui setiap hari.*
