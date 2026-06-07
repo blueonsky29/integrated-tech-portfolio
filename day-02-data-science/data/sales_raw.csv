@@ -1,0 +1,521 @@
+tanggal,produk,kota,harga_satuan,jumlah
+2025-06-13,Teh Tarik,Bandung,12000,1
+20/05/2025,Teh Tarik,Jakarta,12000,
+2025-02-20,Croissant, Surabaya ,22000,4
+2025-06-28,Croissant,Bandung,22000,6
+2025-01-25,Mie Ayam,Jakarta,20000,6
+2025-04-07,Teh Tarik,Medan,12000,5
+2025-01-18,Kopi Susu,Jakarta,18000,4
+2025-04-27,Mie Ayam,Bandung,20000,3
+2025-01-19,Roti Bakar,Yogyakarta,15000,4
+2025-02-26,Mie Ayam,Jakarta,20000,1
+2025-05-26,Mie Ayam,Yogyakarta,20000,4
+2025-02-05,Nasi Goreng,Yogyakarta,25000,5
+2025-02-05,Smoothie Bowl,Jakarta,35000,2
+2025-06-02,Teh Tarik,Yogyakarta,12000,7
+2025-01-03,Teh Tarik,Surabaya,12000,5
+2025-03-09,Roti Bakar,Surabaya,15000,2
+2025-04-06,Roti Bakar,YOGYAKARTA,15000,1
+2025-03-20,Nasi Goreng,Medan,25000,1
+2025-01-18,Roti Bakar,Medan,15000,3
+2025-02-24,Nasi Goreng,Surabaya,25000,5
+27/02/2025,Teh Tarik,Medan,12000,6
+11/06/2025,Kopi Susu,Jakarta,18000,4
+2025-06-21,Smoothie Bowl,Medan,35000,4
+15/04/2025,Nasi Goreng,Yogyakarta,25000,2
+2025-01-14,Teh Tarik,Surabaya,12000,1
+2025-05-18,Smoothie Bowl,Surabaya,35000,3
+2025-05-21,Teh Tarik,Medan,12000,1
+2025-03-02,Roti Bakar,Bandung,15000,7
+2025-01-01,Croissant,Yogyakarta,22000,5
+2025-05-23,Smoothie Bowl,Bandung,35000,3
+2025-03-22,Kopi Susu,Medan,18000,
+11/05/2025,Teh Tarik,Jakarta,12000,3
+2025-05-26,Nasi Goreng,Yogyakarta,25000,1
+2025-03-08,Nasi Goreng,Yogyakarta,25000,6
+2025-01-19,Kopi Susu,Medan,18000,8
+2025-03-09,Roti Bakar,Bandung,15000,6
+2025-06-30,Es Jeruk,Medan,10000,1
+2025-02-04,Es Jeruk,Medan,10000,2
+2025-03-29,Nasi Goreng,Surabaya,25000,5
+19/04/2025,Es Jeruk,Bandung,10000,1
+22/05/2025,Croissant,Bandung,22000,1
+07/02/2025,Croissant,Surabaya,22000,3
+2025-04-02,Nasi Goreng,Surabaya,25000,4
+2025-06-08,Roti Bakar, Bandung ,15000,4
+2025-03-27,Croissant, Jakarta ,22000,4
+2025-02-21,Smoothie Bowl,Bandung,35000,6
+2025-03-13,Teh Tarik,Medan,12000,5
+2025-01-08,Teh Tarik,SURABAYA,12000,5
+2025-03-22,Croissant, Medan ,22000,2
+2025-05-14,Nasi Goreng,Surabaya,25000,6
+2025-03-18,Es Jeruk,Surabaya,10000,7
+2025-04-08,Roti Bakar,Jakarta,15000,5
+2025-06-05,Mie Ayam,Bandung,20000,8
+2025-02-13,Teh Tarik,Medan,12000,5
+2025-06-22,Es Jeruk,BANDUNG,10000,4
+2025-01-19,Smoothie Bowl,Medan,35000,7
+2025-03-04,Roti Bakar,Jakarta,15000,1
+2025-06-28,Smoothie Bowl,Jakarta,35000,1
+2025-05-24,Mie Ayam,Medan,20000,8
+2025-02-10,Smoothie Bowl,Bandung,35000,8
+2025-05-05,Nasi Goreng,Surabaya,25000,5
+2025-01-21,Roti Bakar,Bandung,15000,3
+19/05/2025,Smoothie Bowl,Yogyakarta,35000,7
+06/01/2025,Croissant,Surabaya,22000,8
+2025-04-18,Nasi Goreng,Yogyakarta,25000,8
+2025-04-14,Roti Bakar,Medan,15000,8
+2025-06-19,Kopi Susu,Bandung,18000,2
+2025-03-25,Nasi Goreng,Yogyakarta,25000,8
+2025-01-21,Smoothie Bowl,Jakarta,35000,1
+2025-06-16,Kopi Susu,Bandung,18000,1
+2025-05-02,Teh Tarik,Surabaya,12000,4
+30/01/2025,Roti Bakar,Jakarta,15000,5
+07/04/2025,Croissant,Bandung,22000,4
+2025-06-03,Teh Tarik,Yogyakarta,12000,1
+04/01/2025,Croissant,Surabaya,22000,8
+2025-04-22,Roti Bakar,Medan,15000,5
+2025-06-01,Es Jeruk,Jakarta,10000,6
+26/05/2025,Croissant,Surabaya,22000,6
+2025-03-29,Es Jeruk,Medan,10000,5
+2025-05-06,Nasi Goreng, Yogyakarta ,25000,8
+2025-04-14,Nasi Goreng,Surabaya,25000,5
+2025-05-21,Mie Ayam,Surabaya,20000,6
+2025-03-22,Teh Tarik,Yogyakarta,12000,3
+2025-06-02,Es Jeruk,Surabaya,10000,
+17/05/2025,Roti Bakar,Jakarta,15000,5
+2025-05-06,Teh Tarik,Yogyakarta,12000,1
+2025-03-06,Smoothie Bowl,Yogyakarta,35000,2
+08/02/2025,Roti Bakar,Bandung,15000,5
+2025-06-08,Nasi Goreng,Yogyakarta,25000,7
+2025-05-26,Kopi Susu,Bandung,18000,2
+2025-03-03,Roti Bakar,Yogyakarta,15000,2
+2025-03-01,Es Jeruk,YOGYAKARTA,10000,5
+10/06/2025,Nasi Goreng,Bandung,25000,7
+2025-01-19,Kopi Susu,Medan,18000,3
+2025-02-01,Smoothie Bowl,Surabaya,35000,5
+2025-01-11,Croissant,JAKARTA,22000,6
+2025-05-28,Kopi Susu,Bandung,18000,5
+2025-02-16,Croissant,Yogyakarta,22000,8
+2025-02-11,Mie Ayam,Surabaya,20000,7
+2025-01-10,Smoothie Bowl,Surabaya,35000,2
+01/01/2025,Smoothie Bowl,Medan,35000,7
+2025-01-14,Nasi Goreng,Surabaya,25000,5
+2025-06-11,Nasi Goreng,Jakarta,25000,3
+2025-01-30,Smoothie Bowl,Bandung,35000,2
+2025-03-11,Croissant,Bandung,22000,8
+2025-06-03,Roti Bakar,Yogyakarta,15000,2
+2025-01-01,Es Jeruk,Medan,10000,5
+2025-05-18,Smoothie Bowl,Medan,35000,6
+2025-06-28,Nasi Goreng,YOGYAKARTA,25000,7
+2025-04-08,Croissant,Jakarta,22000,3
+2025-01-26,Smoothie Bowl,YOGYAKARTA,35000,2
+2025-02-09,Teh Tarik,Surabaya,12000,8
+2025-03-26,Croissant, Yogyakarta ,22000,6
+2025-06-11,Es Jeruk,Yogyakarta,10000,4
+2025-01-26,Smoothie Bowl,JAKARTA,35000,3
+2025-04-06,Croissant,Yogyakarta,22000,3
+2025-01-21,Croissant,Medan,22000,4
+2025-03-07,Kopi Susu,Medan,18000,8
+2025-05-31,Es Jeruk,Yogyakarta,10000,7
+2025-05-04,Teh Tarik,Surabaya,12000,4
+18/06/2025,Croissant,Jakarta,22000,5
+2025-03-15,Nasi Goreng,Bandung,25000,6
+2025-06-18,Roti Bakar,Jakarta,15000,2
+2025-02-03,Teh Tarik,Yogyakarta,12000,5
+2025-04-04,Es Jeruk,Yogyakarta,10000,3
+30/01/2025,Smoothie Bowl,Bandung,35000,2
+2025-05-23,Mie Ayam,Jakarta,20000,2
+2025-06-22,Es Jeruk,Surabaya,10000,
+2025-05-24,Mie Ayam,Yogyakarta,20000,4
+2025-02-05,Kopi Susu,Yogyakarta,18000,1
+2025-04-10,Smoothie Bowl,Medan,35000,6
+2025-04-17,Teh Tarik,SURABAYA,12000,8
+2025-03-02,Mie Ayam,Surabaya,20000,2
+2025-04-12,Es Jeruk,YOGYAKARTA,10000,4
+2025-01-06,Kopi Susu,Bandung,18000,6
+2025-05-22,Nasi Goreng,Bandung,25000,4
+2025-01-01,Es Jeruk,Medan,10000,3
+2025-01-07,Roti Bakar, Bandung ,15000,1
+2025-02-02,Croissant,Yogyakarta,22000,2
+2025-04-26,Nasi Goreng,Medan,25000,
+2025-05-03,Croissant,Yogyakarta,22000,7
+24/03/2025,Roti Bakar,Medan,15000,2
+2025-06-02,Es Jeruk,YOGYAKARTA,10000,8
+2025-06-16,Nasi Goreng,Bandung,25000,7
+2025-01-25,Mie Ayam,Surabaya,20000,7
+18/01/2025,Teh Tarik,Jakarta,12000,2
+2025-01-16,Mie Ayam,Yogyakarta,20000,2
+03/06/2025,Es Jeruk,Medan,10000,6
+28/01/2025,Mie Ayam,Surabaya,20000,6
+09/06/2025,Kopi Susu,Surabaya,18000,5
+2025-01-02,Roti Bakar,YOGYAKARTA,15000,3
+2025-01-24,Nasi Goreng,Surabaya,25000,7
+2025-05-26,Teh Tarik,MEDAN,12000,1
+2025-04-19,Smoothie Bowl,Bandung,35000,8
+14/03/2025,Smoothie Bowl,Yogyakarta,35000,5
+2025-02-24,Roti Bakar,JAKARTA,15000,5
+08/04/2025,Nasi Goreng,Jakarta,25000,6
+2025-03-22,Croissant,Yogyakarta,22000,7
+13/02/2025,Smoothie Bowl,Jakarta,35000,6
+2025-04-12,Es Jeruk,BANDUNG,10000,6
+2025-02-19,Mie Ayam,Bandung,20000,6
+2025-06-04,Roti Bakar,Yogyakarta,15000,2
+2025-06-24,Mie Ayam,Jakarta,20000,6
+2025-06-01,Kopi Susu, Surabaya ,18000,6
+2025-03-15,Teh Tarik,Medan,12000,2
+2025-01-11,Smoothie Bowl,Yogyakarta,35000,4
+29/03/2025,Teh Tarik,Yogyakarta,12000,3
+2025-04-04,Mie Ayam,Surabaya,20000,5
+27/03/2025,Teh Tarik,Yogyakarta,12000,6
+04/06/2025,Roti Bakar,Bandung,15000,6
+2025-06-19,Croissant,Jakarta,22000,3
+2025-02-02,Teh Tarik,Jakarta,12000,7
+2025-05-05,Nasi Goreng,BANDUNG,25000,4
+2025-05-19,Kopi Susu,Medan,18000,6
+27/06/2025,Roti Bakar,Surabaya,15000,8
+2025-03-14,Smoothie Bowl,Surabaya,35000,4
+2025-02-19,Mie Ayam,Surabaya,20000,8
+2025-02-11,Nasi Goreng,Jakarta,25000,3
+27/01/2025,Teh Tarik,Bandung,12000,5
+2025-04-22,Teh Tarik,Surabaya,12000,4
+2025-04-06,Nasi Goreng,Surabaya,25000,7
+16/06/2025,Mie Ayam,Surabaya,20000,3
+2025-06-30,Smoothie Bowl,JAKARTA,35000,8
+2025-06-05,Croissant, Bandung ,22000,2
+09/06/2025,Smoothie Bowl, Yogyakarta ,35000,2
+2025-03-03,Roti Bakar,Medan,15000,5
+21/06/2025,Teh Tarik,Medan,12000,6
+06/01/2025,Croissant,Yogyakarta,22000,
+2025-01-18,Mie Ayam,Jakarta,20000,4
+2025-01-12,Mie Ayam,Bandung,20000,6
+03/05/2025,Roti Bakar,YOGYAKARTA,15000,3
+2025-01-11,Mie Ayam, Medan ,20000,5
+2025-03-15,Mie Ayam,Surabaya,20000,1
+2025-04-13,Smoothie Bowl,Bandung,35000,7
+2025-05-13,Es Jeruk,Jakarta,10000,2
+17/03/2025,Mie Ayam,Surabaya,20000,2
+2025-06-26,Smoothie Bowl,Surabaya,35000,6
+2025-01-15,Teh Tarik,Bandung,12000,7
+23/04/2025,Kopi Susu,Surabaya,18000,
+2025-02-09,Smoothie Bowl,Jakarta,35000,6
+2025-06-16,Es Jeruk,Jakarta,10000,4
+2025-05-24,Teh Tarik,Yogyakarta,12000,5
+06/05/2025,Nasi Goreng,Jakarta,25000,2
+2025-01-23,Mie Ayam,Medan,20000,6
+2025-06-29,Roti Bakar,Jakarta,15000,6
+2025-05-07,Kopi Susu,Surabaya,18000,6
+2025-01-23,Teh Tarik,Yogyakarta,12000,5
+2025-01-19,Roti Bakar,Yogyakarta,15000,6
+2025-05-22,Roti Bakar,Jakarta,15000,3
+2025-02-11,Mie Ayam,Medan,20000,4
+2025-06-12,Es Jeruk,Medan,10000,3
+2025-05-29,Roti Bakar,Medan,15000,
+2025-01-08,Teh Tarik,Medan,12000,1
+2025-06-08,Kopi Susu,Medan,18000,8
+2025-06-25,Croissant,Jakarta,22000,5
+2025-03-29,Roti Bakar,Surabaya,15000,6
+2025-02-03,Mie Ayam,Yogyakarta,20000,2
+2025-01-13,Es Jeruk,Yogyakarta,10000,7
+2025-03-25,Mie Ayam,Yogyakarta,20000,4
+2025-05-08,Kopi Susu,Medan,18000,2
+2025-01-13,Kopi Susu, Yogyakarta ,18000,5
+2025-02-04,Es Jeruk,SURABAYA,10000,6
+2025-04-03,Es Jeruk,Yogyakarta,10000,2
+2025-06-24,Teh Tarik,Yogyakarta,12000,3
+2025-04-04,Roti Bakar, Yogyakarta ,15000,4
+27/03/2025,Smoothie Bowl,Medan,35000,8
+2025-04-11,Es Jeruk,Medan,10000,6
+2025-01-05,Mie Ayam,Yogyakarta,20000,6
+2025-06-26,Kopi Susu,Medan,18000,8
+2025-02-13,Croissant,BANDUNG,22000,3
+2025-01-05,Smoothie Bowl,Yogyakarta,35000,6
+2025-05-01,Kopi Susu,Medan,18000,3
+2025-03-22,Roti Bakar,Surabaya,15000,8
+2025-06-24,Es Jeruk,Bandung,10000,8
+2025-03-18,Es Jeruk,Yogyakarta,10000,4
+2025-03-12,Es Jeruk,Medan,10000,2
+2025-02-07,Es Jeruk,Jakarta,10000,1
+2025-05-03,Nasi Goreng,Surabaya,25000,4
+07/06/2025,Nasi Goreng,Medan,25000,4
+2025-03-26,Smoothie Bowl,BANDUNG,35000,2
+2025-04-15,Smoothie Bowl,Surabaya,35000,8
+2025-01-23,Nasi Goreng,Bandung,25000,1
+2025-01-10,Croissant, Surabaya ,22000,8
+2025-01-28,Mie Ayam,Medan,20000,5
+2025-05-10,Smoothie Bowl,Jakarta,35000,5
+2025-02-17,Kopi Susu,Medan,18000,6
+2025-06-13,Croissant,Jakarta,22000,7
+03/05/2025,Mie Ayam,Yogyakarta,20000,4
+2025-03-19,Kopi Susu,BANDUNG,18000,5
+2025-04-14,Es Jeruk,Surabaya,10000,2
+2025-05-03,Roti Bakar,Medan,15000,8
+2025-05-18,Nasi Goreng,Medan,25000,4
+2025-06-30,Mie Ayam,JAKARTA,20000,2
+2025-05-27,Roti Bakar,Medan,15000,3
+2025-05-06,Teh Tarik,Yogyakarta,12000,8
+2025-05-24,Smoothie Bowl, Yogyakarta ,35000,5
+2025-01-19,Kopi Susu,Jakarta,18000,7
+2025-05-01,Kopi Susu,Bandung,18000,5
+2025-04-18,Mie Ayam,Yogyakarta,20000,7
+19/05/2025,Roti Bakar,Medan,15000,6
+2025-01-01,Kopi Susu,Medan,18000,5
+2025-04-28,Mie Ayam,JAKARTA,20000,3
+05/01/2025,Nasi Goreng,MEDAN,25000,4
+2025-01-13,Nasi Goreng,Bandung,25000,1
+2025-02-05,Es Jeruk,Medan,10000,4
+2025-03-24,Nasi Goreng,Medan,25000,5
+2025-06-01,Roti Bakar,Jakarta,15000,7
+2025-05-15,Mie Ayam,Surabaya,20000,7
+2025-02-27,Es Jeruk,Jakarta,10000,3
+2025-02-04,Croissant,Surabaya,22000,4
+2025-01-24,Nasi Goreng,Medan,25000,1
+2025-05-31,Nasi Goreng,Surabaya,25000,8
+2025-02-18,Teh Tarik,Medan,12000,8
+2025-03-24,Es Jeruk,Surabaya,10000,7
+2025-04-30,Teh Tarik,Surabaya,12000,8
+25/05/2025,Nasi Goreng,Medan,25000,3
+2025-02-09,Nasi Goreng,Medan,25000,6
+2025-06-25,Mie Ayam,Yogyakarta,20000,5
+13/02/2025,Mie Ayam,Medan,20000,3
+2025-06-14,Kopi Susu,Jakarta,18000,1
+16/04/2025,Roti Bakar,BANDUNG,15000,4
+08/06/2025,Smoothie Bowl, Medan ,35000,8
+2025-03-12,Es Jeruk,Yogyakarta,10000,1
+2025-01-25,Roti Bakar,Medan,15000,4
+2025-01-21,Mie Ayam,Bandung,20000,7
+2025-01-21,Kopi Susu,Yogyakarta,18000,
+2025-02-13,Teh Tarik,Surabaya,12000,8
+2025-05-16,Kopi Susu, Medan ,18000,4
+2025-03-13,Kopi Susu,SURABAYA,18000,3
+2025-04-12,Teh Tarik,Bandung,12000,5
+2025-05-19,Mie Ayam,Bandung,20000,7
+2025-03-30,Kopi Susu,Jakarta,18000,2
+2025-04-12,Mie Ayam,Yogyakarta,20000,1
+21/04/2025,Roti Bakar,Medan,15000,7
+2025-03-10,Roti Bakar,Bandung,15000,7
+2025-01-02,Es Jeruk,Surabaya,10000,8
+23/05/2025,Croissant,Surabaya,22000,2
+2025-04-09,Kopi Susu,Jakarta,18000,5
+2025-03-04,Roti Bakar,Surabaya,15000,7
+2025-04-22,Es Jeruk,Jakarta,10000,7
+07/05/2025,Nasi Goreng,SURABAYA,25000,8
+2025-04-08,Mie Ayam,Medan,20000,8
+2025-02-21,Smoothie Bowl,Yogyakarta,35000,6
+2025-05-06,Nasi Goreng,Yogyakarta,25000,6
+2025-05-20,Roti Bakar,Yogyakarta,15000,1
+2025-06-27,Teh Tarik,Bandung,12000,7
+2025-04-19,Croissant,Medan,22000,2
+2025-06-27,Croissant,Surabaya,22000,1
+2025-01-22,Teh Tarik,Surabaya,12000,4
+2025-06-15,Croissant,Yogyakarta,22000,6
+2025-05-13,Nasi Goreng,Yogyakarta,25000,8
+30/03/2025,Kopi Susu,Yogyakarta,18000,8
+2025-02-06,Mie Ayam,Bandung,20000,5
+28/06/2025,Smoothie Bowl,Jakarta,35000,6
+2025-06-15,Teh Tarik,Bandung,12000,3
+2025-04-20,Smoothie Bowl,Bandung,35000,4
+2025-06-07,Nasi Goreng,YOGYAKARTA,25000,8
+2025-06-30,Teh Tarik,Medan,12000,2
+2025-03-09,Smoothie Bowl,Medan,35000,6
+2025-04-28,Roti Bakar,MEDAN,15000,5
+2025-03-20,Teh Tarik,Bandung,12000,3
+2025-04-09,Croissant,Medan,22000,3
+2025-05-23,Roti Bakar,Bandung,15000,
+02/04/2025,Kopi Susu,Yogyakarta,18000,8
+2025-06-25,Smoothie Bowl,Yogyakarta,35000,
+2025-02-26,Es Jeruk,Medan,10000,1
+2025-05-07,Teh Tarik,Medan,12000,2
+2025-01-11,Smoothie Bowl,Jakarta,35000,4
+2025-01-09,Smoothie Bowl,Jakarta,35000,5
+2025-03-02,Nasi Goreng,Medan,25000,6
+2025-02-22,Nasi Goreng,Medan,25000,1
+2025-06-30,Es Jeruk,Medan,10000,5
+2025-04-16,Kopi Susu,Bandung,18000,5
+2025-03-24,Nasi Goreng,Medan,25000,7
+2025-01-20,Teh Tarik,Surabaya,12000,7
+2025-05-05,Mie Ayam,Jakarta,20000,1
+2025-04-02,Teh Tarik,Yogyakarta,12000,7
+2025-03-14,Mie Ayam,Yogyakarta,20000,3
+12/01/2025,Teh Tarik, Bandung ,12000,8
+2025-02-21,Roti Bakar,SURABAYA,15000,5
+2025-06-20,Roti Bakar,Surabaya,15000,1
+2025-01-24,Teh Tarik,Jakarta,12000,1
+2025-01-03,Kopi Susu,Yogyakarta,18000,6
+2025-01-23,Teh Tarik,Surabaya,12000,2
+2025-02-04,Roti Bakar,Jakarta,15000,2
+2025-02-24,Roti Bakar,Yogyakarta,15000,7
+2025-02-01,Croissant,Surabaya,22000,6
+2025-03-05,Es Jeruk,Surabaya,10000,1
+2025-04-11,Es Jeruk,Bandung,10000,1
+2025-06-02,Teh Tarik,Surabaya,12000,1
+2025-04-04,Roti Bakar,JAKARTA,15000,8
+2025-01-11,Kopi Susu,Medan,18000,7
+13/06/2025,Roti Bakar,Jakarta,15000,5
+2025-05-18,Mie Ayam,Jakarta,20000,7
+03/03/2025,Kopi Susu,Yogyakarta,18000,
+20/06/2025,Roti Bakar,Bandung,15000,2
+2025-05-14,Es Jeruk,Surabaya,10000,3
+2025-03-27,Croissant,Surabaya,22000,5
+2025-04-27,Mie Ayam,Medan,20000,1
+2025-05-27,Teh Tarik,JAKARTA,12000,4
+2025-05-01,Mie Ayam,Bandung,20000,7
+2025-06-17,Croissant,Yogyakarta,22000,4
+2025-05-27,Mie Ayam,Jakarta,20000,2
+2025-04-13,Teh Tarik,Surabaya,12000,
+2025-02-21,Es Jeruk,Bandung,10000,5
+20/02/2025,Nasi Goreng,YOGYAKARTA,25000,3
+27/06/2025,Kopi Susu,Yogyakarta,18000,6
+2025-05-16,Nasi Goreng,Jakarta,25000,7
+2025-01-12,Nasi Goreng,Surabaya,25000,7
+10/05/2025,Roti Bakar,MEDAN,15000,7
+2025-03-16,Es Jeruk,Yogyakarta,10000,6
+2025-03-11,Nasi Goreng,Bandung,25000,2
+2025-02-12,Smoothie Bowl,Jakarta,35000,8
+2025-03-20,Smoothie Bowl,Jakarta,35000,5
+2025-06-28,Kopi Susu,Surabaya,18000,4
+2025-04-12,Kopi Susu,BANDUNG,18000,5
+2025-05-21,Nasi Goreng,Bandung,25000,2
+2025-02-26,Roti Bakar,Surabaya,15000,4
+31/05/2025,Es Jeruk,Jakarta,10000,2
+24/01/2025,Mie Ayam,YOGYAKARTA,20000,2
+2025-04-12,Smoothie Bowl,Yogyakarta,35000,1
+13/03/2025,Smoothie Bowl,Medan,35000,3
+21/05/2025,Smoothie Bowl,Yogyakarta,35000,1
+2025-05-15,Nasi Goreng,Surabaya,25000,1
+2025-05-25,Mie Ayam,Jakarta,20000,7
+2025-03-13,Kopi Susu,Medan,18000,8
+2025-06-18,Nasi Goreng,Jakarta,25000,5
+2025-04-10,Mie Ayam,Medan,20000,3
+2025-06-01,Kopi Susu,Medan,18000,6
+2025-05-07,Es Jeruk,JAKARTA,10000,
+2025-05-03,Kopi Susu,Bandung,18000,6
+24/03/2025,Kopi Susu,Bandung,18000,1
+2025-01-19,Mie Ayam,Surabaya,20000,7
+2025-04-22,Smoothie Bowl,Medan,35000,6
+2025-02-27,Roti Bakar,Surabaya,15000,7
+2025-05-27,Croissant,Surabaya,22000,1
+25/05/2025,Teh Tarik,Jakarta,12000,8
+23/01/2025,Mie Ayam,Bandung,20000,8
+2025-01-28,Kopi Susu,Yogyakarta,18000,1
+07/04/2025,Mie Ayam,Yogyakarta,20000,7
+27/02/2025,Roti Bakar,Jakarta,15000,8
+2025-01-19,Mie Ayam,Bandung,20000,3
+2025-01-24,Mie Ayam,Yogyakarta,20000,8
+2025-02-10,Kopi Susu,Bandung,18000,2
+2025-05-19,Es Jeruk,JAKARTA,10000,5
+09/02/2025,Kopi Susu,Jakarta,18000,6
+2025-02-21,Teh Tarik,Surabaya,12000,1
+2025-04-12,Smoothie Bowl,SURABAYA,35000,8
+2025-04-08,Mie Ayam,Surabaya,20000,3
+2025-05-25,Kopi Susu,JAKARTA,18000,3
+2025-05-31,Nasi Goreng,Medan,25000,1
+2025-05-02,Nasi Goreng,Yogyakarta,25000,8
+2025-05-13,Roti Bakar,Yogyakarta,15000,2
+2025-02-19,Roti Bakar,Yogyakarta,15000,1
+2025-06-02,Es Jeruk,JAKARTA,10000,6
+2025-03-12,Smoothie Bowl,Medan,35000,1
+2025-02-08,Roti Bakar,Medan,15000,2
+2025-03-30,Croissant,Yogyakarta,22000,5
+14/04/2025,Roti Bakar, Surabaya ,15000,7
+2025-03-10,Mie Ayam,Surabaya,20000,1
+25/06/2025,Teh Tarik,Yogyakarta,12000,4
+2025-06-04,Teh Tarik,Yogyakarta,12000,4
+2025-01-15,Roti Bakar,Medan,15000,2
+2025-05-26,Kopi Susu,Bandung,18000,3
+2025-04-03,Nasi Goreng,Yogyakarta,25000,5
+2025-01-08,Nasi Goreng,Yogyakarta,25000,6
+2025-03-31,Mie Ayam,Surabaya,20000,3
+2025-04-09,Kopi Susu,Bandung,18000,3
+2025-03-10,Croissant,Jakarta,22000,1
+2025-01-03,Nasi Goreng,Surabaya,25000,5
+2025-04-07,Mie Ayam,Yogyakarta,20000,8
+2025-05-30,Teh Tarik,Surabaya,12000,1
+25/06/2025,Teh Tarik,Surabaya,12000,8
+16/06/2025,Es Jeruk,Bandung,10000,4
+2025-06-03,Croissant,Jakarta,22000,6
+2025-04-18,Croissant,Medan,22000,7
+2025-02-26,Smoothie Bowl,Bandung,35000,6
+2025-01-25,Smoothie Bowl,Medan,35000,3
+2025-03-27,Teh Tarik,Surabaya,12000,4
+2025-05-30,Es Jeruk,YOGYAKARTA,10000,8
+2025-06-08,Teh Tarik,Medan,12000,8
+16/04/2025,Kopi Susu,Bandung,18000,3
+2025-04-28,Roti Bakar,Bandung,15000,6
+15/02/2025,Mie Ayam,Surabaya,20000,1
+10/02/2025,Smoothie Bowl,Yogyakarta,35000,2
+2025-04-09,Kopi Susu,Surabaya,18000,1
+2025-05-16,Nasi Goreng,Bandung,25000,1
+2025-01-27,Croissant,Jakarta,22000,5
+2025-06-02,Mie Ayam,Bandung,20000,7
+18/02/2025,Roti Bakar,Bandung,15000,7
+2025-05-31,Roti Bakar,Jakarta,15000,2
+2025-06-09,Kopi Susu,JAKARTA,18000,1
+2025-02-01,Es Jeruk,Bandung,10000,8
+2025-06-19,Teh Tarik,Bandung,12000,5
+08/06/2025,Teh Tarik,Jakarta,12000,5
+2025-05-14,Nasi Goreng,Surabaya,25000,6
+2025-06-26,Smoothie Bowl,Jakarta,35000,6
+2025-06-21,Smoothie Bowl,MEDAN,35000,3
+2025-06-14,Nasi Goreng,Surabaya,25000,8
+2025-01-11,Es Jeruk,Surabaya,10000,6
+2025-01-12,Kopi Susu,Bandung,18000,3
+2025-03-10,Teh Tarik,Bandung,12000,6
+2025-04-09,Smoothie Bowl,Bandung,35000,
+2025-02-10,Teh Tarik,Yogyakarta,12000,7
+2025-04-08,Mie Ayam,Bandung,20000,1
+2025-04-23,Kopi Susu,SURABAYA,18000,2
+2025-05-28,Nasi Goreng,MEDAN,25000,6
+2025-03-30,Croissant,Medan,22000,
+2025-02-10,Smoothie Bowl,Jakarta,35000,8
+2025-03-13,Kopi Susu,Yogyakarta,18000,4
+2025-05-27,Smoothie Bowl,Yogyakarta,35000,2
+2025-01-05,Teh Tarik,Medan,12000,7
+2025-06-08,Es Jeruk,Yogyakarta,10000,
+2025-02-27,Smoothie Bowl,Medan,35000,6
+2025-04-26,Teh Tarik,BANDUNG,12000,2
+16/03/2025,Mie Ayam,Bandung,20000,2
+2025-04-15,Teh Tarik,Bandung,12000,5
+2025-02-18,Mie Ayam,Jakarta,20000,2
+2025-04-26,Smoothie Bowl, Jakarta ,35000,3
+2025-05-30,Smoothie Bowl,Bandung,35000,3
+2025-06-03,Mie Ayam,Medan,20000,7
+2025-03-29,Es Jeruk,Bandung,10000,8
+2025-03-18,Mie Ayam,Medan,20000,4
+2025-02-03,Roti Bakar,Surabaya,15000,6
+2025-04-17,Es Jeruk,Medan,10000,
+2025-01-15,Nasi Goreng,Bandung,25000,5
+2025-01-16,Es Jeruk,Jakarta,10000,4
+2025-06-22,Nasi Goreng, Surabaya ,25000,7
+17/04/2025,Mie Ayam,Surabaya,20000,1
+2025-04-24,Nasi Goreng,Medan,25000,6
+2025-02-19,Es Jeruk,Jakarta,10000,8
+2025-04-07,Kopi Susu,Surabaya,18000,7
+26/03/2025,Smoothie Bowl,Surabaya,35000,3
+2025-06-19,Es Jeruk,Medan,10000,8
+2025-02-26,Roti Bakar,Bandung,15000,2
+2025-02-26,Nasi Goreng,Surabaya,25000,6
+2025-05-24,Kopi Susu,Yogyakarta,18000,2
+2025-03-04,Kopi Susu,Jakarta,18000,6
+2025-05-13,Mie Ayam,Surabaya,20000,8
+2025-01-25,Roti Bakar,Bandung,15000,1
+2025-01-13,Es Jeruk,Yogyakarta,10000,7
+2025-04-09,Kopi Susu,Bandung,18000,3
+2025-02-13,Teh Tarik,Medan,12000,5
+2025-06-03,Roti Bakar,Yogyakarta,15000,2
+25/05/2025,Nasi Goreng,Medan,25000,3
+2025-04-03,Nasi Goreng,Yogyakarta,25000,5
+2025-05-27,Teh Tarik,JAKARTA,12000,4
+18/02/2025,Roti Bakar,Bandung,15000,7
+24/01/2025,Mie Ayam,YOGYAKARTA,20000,2
+25/05/2025,Teh Tarik,Jakarta,12000,8
+2025-04-03,Es Jeruk,Yogyakarta,10000,2
+2025-06-30,Es Jeruk,Medan,10000,5
+14/04/2025,Roti Bakar, Surabaya ,15000,7
+2025-06-30,Es Jeruk,Medan,10000,1
+21/05/2025,Smoothie Bowl,Yogyakarta,35000,1
+2025-01-11,Kopi Susu,Medan,18000,7
+2025-03-29,Es Jeruk,Medan,10000,5
+2025-02-05,Smoothie Bowl,Jakarta,35000,2
+2025-03-12,Es Jeruk,Medan,10000,2
+2025-05-16,Nasi Goreng,Jakarta,25000,7

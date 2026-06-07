@@ -1,0 +1,24 @@
+{
+  "total_pendapatan": 45062000,
+  "total_transaksi": 499,
+  "rata_per_transaksi": 90304,
+  "produk_terlaris": "Smoothie Bowl",
+  "kota_tertinggi": "Surabaya",
+  "pendapatan_per_produk": {
+    "Smoothie Bowl": 10360000,
+    "Nasi Goreng": 8125000,
+    "Mie Ayam": 6240000,
+    "Kopi Susu": 4914000,
+    "Croissant": 4532000,
+    "Roti Bakar": 4515000,
+    "Teh Tarik": 3696000,
+    "Es Jeruk": 2680000
+  },
+  "pendapatan_per_kota": {
+    "Surabaya": 9905000,
+    "Yogyakarta": 9722000,
+    "Medan": 9590000,
+    "Bandung": 8038000,
+    "Jakarta": 7807000
+  }
+}
