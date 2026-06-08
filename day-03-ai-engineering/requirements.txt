@@ -1,0 +1,6 @@
+# Dependencies untuk DAY 3 — AI Engineering
+# Mode rule-based tidak butuh apa-apa (hanya Python standar).
+# Mode LLM membutuhkan paket di bawah:
+
+openai>=1.0.0
+python-dotenv>=1.0.0

@@ -23,7 +23,7 @@ Perencanaan → Data → AI → Cloud → Keamanan → Web/Network → ...
 |-----|---------|--------|--------|
 | [DAY 1](./day-01-project-management/) | Project Charter & Roadmap SmartData Platform | Project Management | ✅ Selesai |
 | [DAY 2](./day-02-data-science/) | Analisis & Pembersihan Data Penjualan UMKM | Data Science | ✅ Selesai |
-| DAY 3 | *(coming soon)* | AI Engineering | ⏳ |
+| [DAY 3](./day-03-ai-engineering/) | SmartData AI Advisor (insight otomatis) | AI Engineering | ✅ Selesai |
 | DAY 4 | *(coming soon)* | Cloud Computing | ⏳ |
 | DAY 5 | *(coming soon)* | Cybersecurity | ⏳ |
 | DAY 6 | *(coming soon)* | Web / Network | ⏳ |
@@ -40,14 +40,8 @@ Perencanaan → Data → AI → Cloud → Keamanan → Web/Network → ...
 
 ## 👤 Tentang Saya
 
-Halo! 👋 
-Perkenalkan, nama saya **Lury**. Saat ini saya sedang menempuh pendidikan Magister Teknik Informatika.
+*(Isi bagian ini: nama, latar belakang singkat, dan link kontak — LinkedIn/email.)*
 
-Portofolio ini adalah catatan perjalanan belajar saya — tempat saya mengeksplorasi berbagai bidang teknologi dan menghubungkannya menjadi sesuatu yang utuh. Saya senang belajar hal baru, dan lebih senang lagi membagikannya. Setiap project di sini adalah satu langkah kecil yang saya nikmati prosesnya. 😊
-
-Kalau kamu tertarik ngobrol, kolaborasi, atau sekadar menyapa — jangan ragu, ya!
-
-📫 **Mari terhubung:** *www.linkedin.com/in/lury-wimba-lukmanawati-59a2392a7*
 ---
 
 *Dibangun sebagai bagian dari program pelatihan intensif. Diperbarui setiap hari.*
