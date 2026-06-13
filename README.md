@@ -56,4 +56,6 @@ Portofolio ini adalah catatan perjalanan belajar saya — tempat saya mengeksplo
 Kalau kamu tertarik ngobrol, kolaborasi, atau sekadar menyapa — jangan ragu, ya!
 
 📫 Mari terhubung: www.linkedin.com/in/lury-wimba-lukmanawati-59a2392a7
+
+
 Bagian dari [Integrated Tech Portfolio](../README.md).
