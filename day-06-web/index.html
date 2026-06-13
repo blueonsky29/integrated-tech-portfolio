@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SmartData Platform — Integrated Tech Portfolio</title>
+<style>
+  :root {
+    --bg: #0a0e14;
+    --panel: #121821;
+    --line: #1f2933;
+    --ink: #e6edf3;
+    --muted: #7d8590;
+    --accent: #4ade80;
+    --accent-dim: #16271c;
+    --blue: #58a6ff;
+    --amber: #f0b429;
+    --mono: 'SF Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace;
+    --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg); color: var(--ink); font-family: var(--sans);
+    line-height: 1.6; -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+
+  /* Header / hero */
+  header { border-bottom: 1px solid var(--line); padding: 64px 0 48px; }
+  .eyebrow {
+    font-family: var(--mono); font-size: 12px; color: var(--accent);
+    letter-spacing: 2px; text-transform: uppercase; margin-bottom: 16px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent);
+    box-shadow: 0 0 8px var(--accent); animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+  h1 { font-size: clamp(32px, 6vw, 52px); font-weight: 700; line-height: 1.1;
+    letter-spacing: -1px; margin-bottom: 16px; }
+  h1 .grad { color: var(--accent); }
+  .lede { font-size: 18px; color: var(--muted); max-width: 620px; }
+
+  /* Pipeline visual */
+  .pipeline {
+    font-family: var(--mono); font-size: 13px; color: var(--muted);
+    margin-top: 32px; padding: 16px; background: var(--panel);
+    border: 1px solid var(--line); border-radius: 8px; overflow-x: auto;
+    white-space: nowrap;
+  }
+  .pipeline .step { color: var(--blue); }
+  .pipeline .arr { color: var(--accent); margin: 0 8px; }
+
+  /* Section */
+  section { padding: 56px 0; border-bottom: 1px solid var(--line); }
+  .sec-label {
+    font-family: var(--mono); font-size: 12px; color: var(--muted);
+    letter-spacing: 1px; text-transform: uppercase; margin-bottom: 28px;
+  }
+
+  /* Day cards */
+  .grid { display: grid; gap: 1px; background: var(--line);
+    border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  .card { background: var(--panel); padding: 24px; transition: background 0.2s; }
+  .card:hover { background: #161d27; }
+  .card-top { display: flex; align-items: baseline; gap: 12px; margin-bottom: 8px; }
+  .card-num { font-family: var(--mono); font-size: 13px; color: var(--accent);
+    font-weight: 600; }
+  .card-domain { font-family: var(--mono); font-size: 11px; color: var(--muted);
+    text-transform: uppercase; letter-spacing: 1px; margin-left: auto; }
+  .card h3 { font-size: 17px; font-weight: 600; margin-bottom: 6px; }
+  .card p { font-size: 14px; color: var(--muted); }
+
+  /* Stats */
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 16px; }
+  .stat { background: var(--panel); border: 1px solid var(--line);
+    border-radius: 8px; padding: 20px; }
+  .stat .num { font-family: var(--mono); font-size: 28px; font-weight: 700;
+    color: var(--accent); }
+  .stat .lbl { font-size: 13px; color: var(--muted); margin-top: 4px; }
+
+  /* About */
+  .about p { color: var(--muted); max-width: 620px; margin-bottom: 16px; }
+  .about a { color: var(--blue); text-decoration: none; border-bottom: 1px solid transparent;
+    transition: border 0.2s; }
+  .about a:hover { border-bottom-color: var(--blue); }
+
+  footer { padding: 40px 0; text-align: center; font-family: var(--mono);
+    font-size: 12px; color: var(--muted); }
+
+  @media (prefers-reduced-motion: reduce) {
+    .dot { animation: none; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="eyebrow"><span class="dot"></span> System Online · 6 Modules Deployed</div>
+    <h1>SmartData <span class="grad">Platform</span></h1>
+    <p class="lede">Satu sistem utuh yang dibangun lapis demi lapis — dari perencanaan,
+    data, AI, cloud, keamanan, hingga antarmuka ini. Bukan kumpulan tutorial terpisah,
+    melainkan satu produk yang bercerita.</p>
+    <div class="pipeline">
+      <span class="step">Perencanaan</span><span class="arr">→</span><span class="step">Data</span><span class="arr">→</span><span class="step">AI</span><span class="arr">→</span><span class="step">Cloud</span><span class="arr">→</span><span class="step">Keamanan</span><span class="arr">→</span><span class="step">Web</span>
+    </div>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <div class="sec-label">// Modul yang Dibangun</div>
+    <div class="grid" id="days"></div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-label">// Cakupan Teknis</div>
+    <div class="stats">
+      <div class="stat"><div class="num">6</div><div class="lbl">Domain teknologi</div></div>
+      <div class="stat"><div class="num">5</div><div class="lbl">Bahasa &amp; framework</div></div>
+      <div class="stat"><div class="num">100%</div><div class="lbl">Saling terintegrasi</div></div>
+      <div class="stat"><div class="num">∞</div><div class="lbl">Bisa dikembangkan</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="about">
+  <div class="wrap">
+    <div class="sec-label">// Tentang</div>
+    <p><strong style="color:var(--ink)">Lury</strong> — Magister Teknik Informatika.
+    Portofolio ini adalah catatan perjalanan belajar lintas-bidang: menghubungkan
+    setiap domain teknologi menjadi satu sistem yang koheren.</p>
+    <p>Kode lengkap, dokumentasi, dan penjelasan tiap modul tersedia di repository.</p>
+    <p><a href="https://github.com/blueonsky29/integrated-tech-portfolio">→ Lihat di GitHub</a></p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">Dibangun dengan ❤️ · SmartData Platform · 2025</div>
+</footer>
+
+<script>
+  // Data modul — di-render dari JS agar mudah diperbarui
+  const days = [
+    { num: "DAY 01", domain: "Project Mgmt", title: "Perencanaan & Charter",
+      desc: "Project charter, scope, roadmap, dan risk register sebagai fondasi seluruh sistem." },
+    { num: "DAY 02", domain: "Data Science", title: "Analisis Data UMKM",
+      desc: "Membersihkan data kotor, menganalisis, dan menghasilkan ringkasan untuk fase AI." },
+    { num: "DAY 03", domain: "AI Engineering", title: "SmartData AI Advisor",
+      desc: "Mengubah angka menjadi rekomendasi bisnis via AI — dengan mode rule-based & LLM." },
+    { num: "DAY 04", domain: "Cloud / AWS", title: "Deploy ke Cloud",
+      desc: "Aplikasi web Flask + Docker + arsitektur AWS agar platform bisa diakses online." },
+    { num: "DAY 05", domain: "Cybersecurity", title: "Audit & Hardening",
+      desc: "Memindai kelemahan sendiri, lalu memperkuat dengan rate limiting & validasi input." },
+    { num: "DAY 06", domain: "Web Dev", title: "Antarmuka Final",
+      desc: "Halaman ini — lapisan presentasi yang menyatukan seluruh perjalanan platform." },
+  ];
+
+  const container = document.getElementById("days");
+  days.forEach(d => {
+    const el = document.createElement("div");
+    el.className = "card";
+    el.innerHTML = `
+      <div class="card-top">
+        <span class="card-num">${d.num}</span>
+        <span class="card-domain">${d.domain}</span>
+      </div>
+      <h3>${d.title}</h3>
+      <p>${d.desc}</p>`;
+    container.appendChild(el);
+  });
+</script>
+</body>
+</html>

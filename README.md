@@ -26,7 +26,7 @@ Perencanaan → Data → AI → Cloud → Keamanan → Web/Network → ...
 | [DAY 3](./day-03-ai-engineering/) | SmartData AI Advisor (insight otomatis) | AI Engineering | ✅ Selesai |
 | [DAY 4](./day-04-cloud-aws/) | Deploy SmartData ke AWS (web app + arsitektur) | Cloud Computing | ✅ Selesai |
 | [DAY 5](./day-05-cybersecurity/) | Audit Keamanan & Hardening Platform | Cybersecurity | ✅ Selesai |
-| DAY 6 | *(coming soon)* | Web / Network | ⏳ |
+| [DAY 6](./day-06-web/) | Dashboard Web & Publikasi GitHub Pages | Web Development | ✅ Selesai |
 
 ---
 
@@ -40,13 +40,7 @@ Perencanaan → Data → AI → Cloud → Keamanan → Web/Network → ...
 
 ## 👤 Tentang Saya
 
-Halo! 👋 Perkenalkan, saya Lury, sedang menempuh pendidikan Magister Teknik Informatika.
-
-Portofolio ini adalah catatan perjalanan belajar saya — tempat saya mengeksplorasi berbagai bidang teknologi dan menghubungkannya menjadi sesuatu yang utuh. Saya senang belajar hal baru, dan lebih senang lagi membagikannya. Setiap project di sini adalah satu langkah kecil yang saya nikmati prosesnya. 😊
-
-Kalau kamu tertarik ngobrol, kolaborasi, atau sekadar menyapa — jangan ragu, ya!
-
-📫 Mari terhubung: www.linkedin.com/in/lury-wimba-lukmanawati-59a2392a7
+*(Isi bagian ini: nama, latar belakang singkat, dan link kontak — LinkedIn/email.)*
 
 ---
 
