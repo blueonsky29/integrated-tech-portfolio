@@ -29,7 +29,7 @@ Event dipilih karena kaya kompleksitas PM: deadline keras, banyak pihak, kerja p
 | Hari | Fase PMBOK | Fokus | Output |
 |------|-----------|-------|--------|
 | [DAY 1](./day-1-initiation/) | Initiating | Inisiasi | Charter, Stakeholder Register, Business Case |
-| DAY 2 | Planning | Scope & WBS | Scope statement, Work Breakdown Structure |
+| [DAY 2](./day-2-scope-wbs/) | Planning | Scope & WBS | Scope statement, Work Breakdown Structure |
 | DAY 3 | Planning | Jadwal | Timeline, milestone, **Gantt chart** |
 | DAY 4 | Planning | Biaya & Sumber Daya | Anggaran, RACI matrix |
 | DAY 5 | Planning | Risiko & Kualitas | Risk register, risk matrix |
@@ -49,13 +49,5 @@ Event dipilih karena kaya kompleksitas PM: deadline keras, banyak pihak, kerja p
 
 ## 👤 Tentang
 
-Halo! 👋 Perkenalkan, saya Lury, sedang menempuh pendidikan Magister Teknik Informatika.
-
-Portofolio ini adalah catatan perjalanan belajar saya — tempat saya mengeksplorasi berbagai bidang teknologi dan menghubungkannya menjadi sesuatu yang utuh. Saya senang belajar hal baru, dan lebih senang lagi membagikannya. Setiap project di sini adalah satu langkah kecil yang saya nikmati prosesnya. 😊
-
-Kalau kamu tertarik ngobrol, kolaborasi, atau sekadar menyapa — jangan ragu, ya!
-
-📫 Mari terhubung: www.linkedin.com/in/lury-wimba-lukmanawati-59a2392a7
-
-
+**Lury** — Magister Teknik Informatika.
 Bagian dari [Integrated Tech Portfolio](../README.md).
